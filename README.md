@@ -1,1 +1,1 @@
-# MechanicalDesign
+# Mechanical Design
