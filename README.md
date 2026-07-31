@@ -6,7 +6,7 @@
 <img src="QEV6 Suspension Assembly.png" width="575"/>
 </div>
 
-The objective was to model the suspension system of the QUT Motorsport 2026 vehicle illustrating the revised geometry implemented to reduce track width, thereby decreasing the turning radius and enhancing manoeuvrability on tight competition circuits.
+The objective of this work was to develop a CAD model of the QUT Motorsport 2026 suspension system incorporating the revised suspension geometry. The revised geometry was implemented to reduce the vehicle track width while maintaining the prescribed suspension kinematics and packaging constraints. This design modification was intended to reduce the minimum turning radius, thereby improving vehicle manoeuvrability and performance on the tight, low-speed circuits characteristic of Formula Student competition.
 
 ### Composite Tensile Testing Jig
 
