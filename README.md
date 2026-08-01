@@ -1,4 +1,4 @@
-# Mechanical Design
+# Projects
 
 ### QEV6 Suspension CAD Modelling
 
@@ -6,7 +6,7 @@
 <img src="Pictures/QEV6 Suspension Assembly.png" width="600"/>
 </div>
 <br>
-The objective of this work was to develop a CAD model of the QUT Motorsport 2026 suspension system incorporating the revised suspension geometry. The revised geometry was implemented to reduce the vehicle track width while maintaining the prescribed suspension kinematics and packaging constraints. This design modification was intended to reduce the minimum turning radius, thereby improving vehicle manoeuvrability and performance on the tight, low-speed circuits characteristic of Formula Student competition.
+The task was to develop a CAD model of the QUT Motorsport 2026 suspension system incorporating the revised suspension geometry. The revised geometry was implemented to reduce the vehicle track width while maintaining the prescribed suspension kinematics and packaging constraints. This design modification is intended to reduce the minimum turning radius, thereby improving vehicle manoeuvrability and performance on the tight, low-speed circuits characteristic of Formula Student competition.
 
 ### Composite Tensile Testing Jig
 
