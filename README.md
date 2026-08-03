@@ -1,6 +1,6 @@
 # Projects
 
-### QEV6 Suspension CAD Modelling
+### Suspension CAD Modelling - QEV6
 
 <div align="center"> 
 <img src="Pictures/QEV6 Suspension Assembly.png" width="600"/>
