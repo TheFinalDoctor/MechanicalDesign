@@ -8,7 +8,7 @@
 <br>
 The task was to develop a CAD model of the QUT Motorsport 2026 suspension system using the updated suspension geometry. The new geometry was designed to reduce the vehicle's track width while still meeting the required suspension movement and packaging requirements. This change aims to reduce the vehicle's turning radius, improving its maneuverability and overall performance on the tight, low-speed tracks used in Formula Student competitions.
 
-### Composite Tensile Testing Jig
+### Tensile Testing Jig
 
 <div align="center"> 
 <img src="Pictures/Jig.png" width="400"/>
