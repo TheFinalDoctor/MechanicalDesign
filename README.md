@@ -20,5 +20,5 @@ The objective of this project was to design and validate a structural pull-out t
 
 ### Structural Analysis of a Composite Undertray [In progress]
 
-## Thesis: 
+## Thesis 
 ### Dynamic Mechanical Analysis of Tyre Rubber [In progress]
