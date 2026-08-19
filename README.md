@@ -1,5 +1,5 @@
 # Projects
-Featured below are some of the most notable projects I have completed during my studies. These projects highlight my technical capabilities, problem-solving skills, attention to detail, and ability to apply engineering principles to real-world applications.
+Featured below are some of the most notable projects I have completed during my studies. These projects highlight my technical capabilities, problem-solving skills, and ability to apply engineering principles to real-world applications.
 
 ## Formula Student
 ### Suspension CAD Modelling
